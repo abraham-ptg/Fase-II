@@ -1,0 +1,4 @@
+Titulo,Dominio,Fecha de Brecha,Datos Comprometidos,Verificada,Sensible
+Adobe,adobe.com,2013-10-04,"Email addresses, Password hints, Passwords, Usernames",Si,No
+Stratfor,stratfor.com,2011-12-24,"Credit cards, Email addresses, Names, Passwords, Phone numbers, Physical addresses, Usernames",Si,No
+Bitcoin Security Forum Gmail Dump,forum.btcsec.com,2014-01-09,"Email addresses, Passwords",Si,No
